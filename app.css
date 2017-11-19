@@ -1,0 +1,41 @@
+body {
+  margin-top: 25px;
+}
+
+h1 {
+  text-align: center;
+  margin: 30px;
+  margin-bottom: 50px;
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+p {
+  padding-top: 5px;
+  font-size: 25px;
+}
+
+.container {
+  border-radius: 10px;
+  background-color: #6e7f80;
+  width: 280px;
+  padding: 10px;
+}
+
+.btn {
+  width: 40px;
+  margin: 2px;
+}
+
+#equal {
+  width: 88px;
+}
+
+#space {
+  padding: 24px;
+}
+
+#display {
+  background-color: #dbe9f4;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
