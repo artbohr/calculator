@@ -1,4 +1,4 @@
-# Calculator
+# Basic Calculator
 
 ## Live Demo
 https://artbohr.github.io/calculator/
